@@ -1,5 +1,6 @@
 ## Readme.md
 - 该项目是面向2023年第十一届“泰迪杯”数据挖掘挑战赛A题的解决方案
+- 获得国家级三等奖
 - [竞赛网址](https://www.tipdm.org:10010/#/competition/1620719578957127680/introduce "Markdown")
 ### Codes
 * 所有程序源码保存在Codes文件目录下，其中包含了 " Q1&Q2 ", " Q3&Q4 " 和 " Q5 "三个文件夹。
